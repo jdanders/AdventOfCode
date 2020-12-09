@@ -1,0 +1,1 @@
+This is my set of solutions for [Advent of Code](https://adventofcode.com/), which is a new challenge a day leading up to Christmas.
